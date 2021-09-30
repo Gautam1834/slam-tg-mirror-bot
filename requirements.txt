@@ -7,6 +7,7 @@ beautifulsoup4
 cloudscrape
 feedparser
 gitpython
+google~=3.0.0
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
@@ -26,6 +27,7 @@ python-magic
 python-telegram-bot
 qbittorrent-api
 quoters
+randfacts
 requests
 speedtest-cli
 telegraph
